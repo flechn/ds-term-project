@@ -1,0 +1,9 @@
+﻿  q2.cpp
+q2.cpp(12): warning C4005: “OVERFLOW”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(954): note: 参见“OVERFLOW”的前一个定义
+  正在生成代码
+e:\大学\自救\github\ds-term-project\q2\q2\q2.cpp(168): warning C4715: “ShowDir”: 不是所有的控件路径都返回值
+  All 117 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  q2.vcxproj -> E:\大学\自救\github\ds-term-project\q2\Release\q2.exe
+  q2.vcxproj -> E:\大学\自救\github\ds-term-project\q2\Release\q2.pdb (Full PDB)

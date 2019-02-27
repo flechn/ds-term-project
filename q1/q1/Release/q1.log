@@ -1,0 +1,7 @@
+﻿  q1.cpp
+q1.cpp(40): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  q1.vcxproj -> E:\大学\自救\github\ds-term-project\q1\Release\q1.exe
+  q1.vcxproj -> E:\大学\自救\github\ds-term-project\q1\Release\q1.pdb (Full PDB)

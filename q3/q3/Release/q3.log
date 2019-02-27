@@ -1,0 +1,8 @@
+﻿  q3.cpp
+q3.cpp(7): warning C4005: “OVERFLOW”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(954): note: 参见“OVERFLOW”的前一个定义
+  正在生成代码
+  All 34 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  q3.vcxproj -> E:\大学\自救\github\ds-term-project\q3\Release\q3.exe
+  q3.vcxproj -> E:\大学\自救\github\ds-term-project\q3\Release\q3.pdb (Full PDB)
