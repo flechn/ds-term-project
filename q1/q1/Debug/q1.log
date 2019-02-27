@@ -1,0 +1,4 @@
+﻿  q1.cpp
+e:\大学\自救\github\boss\q1\q1\q1.cpp(40): warning C4305: “参数”: 从“double”到“float”截断
+  q1.vcxproj -> E:\大学\自救\github\boss\q1\Debug\q1.exe
+  q1.vcxproj -> E:\大学\自救\github\boss\q1\Debug\q1.pdb (Full PDB)

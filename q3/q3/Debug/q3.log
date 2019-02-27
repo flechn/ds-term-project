@@ -1,0 +1,5 @@
+﻿  q3.cpp
+e:\大学\自救\github\boss\q3\q3\q3.cpp(7): warning C4005: “OVERFLOW”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(954): note: 参见“OVERFLOW”的前一个定义
+  q3.vcxproj -> E:\大学\自救\github\boss\q3\Debug\q3.exe
+  q3.vcxproj -> E:\大学\自救\github\boss\q3\Debug\q3.pdb (Full PDB)
